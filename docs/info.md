@@ -13,8 +13,8 @@ Experimental Tiny Tapeout Circuit example
 
 ## How to test
 
-Explain how to use your project
+set 7 binary inputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display
